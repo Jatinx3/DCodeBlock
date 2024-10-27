@@ -9,15 +9,15 @@ const SIDEBAR_ITEMS = [
         name : 'Overview', icon: BarChart2, color:"#6366f1", href:"/"
     },
     {
-        name : 'Users', icon: Users, color:"#EC4599", href:'/users'
+        name : 'Users', icon: Users, color:"#EC4599", href:'/admin/users'
     },
 
     {
-        name : 'Analytics', icon: TrendingUp, color:"#3882F6", href:"/analytics"
+        name : 'Analytics', icon: TrendingUp, color:"#3882F6", href:"/admin/analytics"
     },
 
     {
-        name : 'Settings', icon: Settings, color:"#6EE787", href:"/settings"
+        name : 'Settings', icon: Settings, color:"#6EE787", href:"/admin/settings"
     },
    
 ]
